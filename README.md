@@ -13,9 +13,9 @@ To use this script, you can run it from the command line with the following argu
 Replace <host> with the host you want to scan, <start> with the starting port number, and <end> with the ending port number. For example, to scan all ports on the localhost, you can use the following command:</br>
 ```python port_scanner.py --host lpu.in --start 1 --end 65535```
   
-In case you want to contribute, I encourage you to do so. Do you have ideas for cool features? Or have you found any bugs so far? Feel free to open an issue or send a pull request. It's very much appreciated.
+![screenshot](https://raw.githubusercontent.com/0xd3vil/Port_Scanner/main/Screenshot%202023-01-08%20at%201.15.13%20PM.png)
   
-!(https://raw.githubusercontent.com/0xd3vil/Port_Scanner/main/Screenshot%202023-01-08%20at%201.15.13%20PM.png)
+In case you want to contribute, I encourage you to do so. Do you have ideas for cool features? Or have you found any bugs so far? Feel free to open an issue or send a pull request. It's very much appreciated.
   
 <div align="center">  
 <h3>https://linkedin.com/in/0xd3vil</h3>  
