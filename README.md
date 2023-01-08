@@ -15,6 +15,8 @@ Replace <host> with the host you want to scan, <start> with the starting port nu
   
 In case you want to contribute, I encourage you to do so. Do you have ideas for cool features? Or have you found any bugs so far? Feel free to open an issue or send a pull request. It's very much appreciated.
   
+!(https://raw.githubusercontent.com/0xd3vil/Port_Scanner/main/Screenshot%202023-01-08%20at%201.15.13%20PM.png)
+  
 <div align="center">  
 <h3>https://linkedin.com/in/0xd3vil</h3>  
 <h3>https://twitter.com/0xd3vil</h3>
