@@ -15,6 +15,7 @@ Replace <host> with the host you want to scan, <start> with the starting port nu
   
 In case you want to contribute, I encourage you to do so. Do you have ideas for cool features? Or have you found any bugs so far? Feel free to open an issue or send a pull request. It's very much appreciated.
   
+<div align="center">  
 <h3>https://linkedin.com/in/0xd3vil</h3>  
 <h3>https://twitter.com/0xd3vil</h3>
   
